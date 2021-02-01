@@ -2359,7 +2359,7 @@ body._lock {
 
 	.tariff__title {
 		margin-bottom: calc(30px + 20 * ((100vw - 320px) / 910));
-		margin: 0 10px 0 0;
+		margin-right:10px;
 	}
 }
 
