@@ -2365,6 +2365,9 @@ body._lock {
 }
 
 @media (max-width: 768px) {
+	.tariff__title {
+		flex:1 1 100%;
+	}
 	.header::before {
 		height: 50px;
 	}
