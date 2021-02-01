@@ -1435,6 +1435,7 @@ body._lock {
 	line-height: 130%;
 	color: rgba(255, 255, 255, 0.9);
 	margin-bottom: 40px;
+	padding-left:15px;
 }
 
 .about__list_margin {
