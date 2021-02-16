@@ -376,7 +376,7 @@ body._lock {
 	-ms-flex-pack: center;
 	justify-content: center;
 	position: relative;
-	z-index: 6;
+	z-index: 7;
 }
 
 .menu__item {
